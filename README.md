@@ -19,4 +19,4 @@ Pour l'instant, la progression est temporaire et n'est pas encore sauvegardée e
 - `includes/` : futur code commun et connexion MySQL
 
 ## Prochaine étape
-Ajouter MySQL et sauvegarder la progression du joueur.
+Autres fonctionnalités du jeu
